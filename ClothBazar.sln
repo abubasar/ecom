@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clothbazar.entities", "clot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clothbazar.database", "clothbazar.database\clothbazar.database.csproj", "{03B14AE6-2DD1-4C7F-AFB6-469C8935CA56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clothbazar.services", "clothbazar.services\clothbazar.services.csproj", "{DCA5EB65-05EE-4A7C-9412-70FCD9ABEF66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{03B14AE6-2DD1-4C7F-AFB6-469C8935CA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03B14AE6-2DD1-4C7F-AFB6-469C8935CA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03B14AE6-2DD1-4C7F-AFB6-469C8935CA56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA5EB65-05EE-4A7C-9412-70FCD9ABEF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA5EB65-05EE-4A7C-9412-70FCD9ABEF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA5EB65-05EE-4A7C-9412-70FCD9ABEF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA5EB65-05EE-4A7C-9412-70FCD9ABEF66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
